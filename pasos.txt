@@ -1,0 +1,15 @@
+1- Se realiza el commit añadiendo los cambios a la zona de intercambio temporal.
+2- Se comprueba que está en GitHub
+3. Se crea una rama en VScode con el icono que sale abajo a la izquierda (donde pone main)
+4. Se hace un git status para ver el estado
+5. Se crea el archivo llamado recu.md y se añade a la zona de intercambio(en la categoria source control, dandole a changes)
+6. Se modifica el archivo recu.md y se añade el expediente.
+7. Se vuelve a hacer un git status
+8. Se hace un commit en la categoria Source control.
+9. Despues del commit, saldrá en la Publish Branch, pues se le da para publicarlo.
+10. Para ver el grafo con todas las ramas, en Source control, donde esta el nombre del repositorio, se le da al icono que esta despues de la nube.
+11. Donde se habia cambiado la rama en el paso 3, se cambia a main y se crea el fichero pasos.txt
+12. Se añade los cambios y se hace commit 
+13. se publicar
+14. Se fusiona las ramas con el terminal (estando en la principal [main] y se hace git merge nombrerama).
+15. Lo mismo que en el paso 10
